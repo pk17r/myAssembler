@@ -1,0 +1,35 @@
+﻿  myAssembler.cpp
+myAssembler.cpp(122): warning C4018: '<': signed/unsigned mismatch
+myAssembler.cpp(145): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+myAssembler.cpp(178): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+myAssembler.cpp(183): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+myAssembler.cpp(197): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+myAssembler.cpp(203): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+myAssembler.cpp(208): warning C4018: '<': signed/unsigned mismatch
+myAssembler.cpp(232): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+myAssembler.cpp(237): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+myAssembler.cpp(239): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+myAssembler.cpp(244): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+myAssembler.cpp(246): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+myAssembler.cpp(251): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+myAssembler.cpp(253): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+myAssembler.cpp(258): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+myAssembler.cpp(263): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+myAssembler.cpp(268): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+myAssembler.cpp(273): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+myAssembler.cpp(329): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+myAssembler.cpp(356): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+myAssembler.cpp(359): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+myAssembler.cpp(375): warning C4018: '<': signed/unsigned mismatch
+myAssembler.cpp(384): warning C4018: '<': signed/unsigned mismatch
+myAssembler.cpp(457): warning C4018: '<': signed/unsigned mismatch
+myAssembler.cpp(506): warning C4018: '<': signed/unsigned mismatch
+myAssembler.cpp(551): warning C4018: '<': signed/unsigned mismatch
+myAssembler.cpp(598): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  0 of 440 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    25 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  myAssembler.vcxproj -> D:\GoogleDriveVT\Courses\9.CompOrgAndArchitecture\Project1\myAssembler\Release\myAssembler.exe
+  myAssembler.vcxproj -> D:\GoogleDriveVT\Courses\9.CompOrgAndArchitecture\Project1\myAssembler\Release\myAssembler.pdb (Full PDB)
