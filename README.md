@@ -1,4 +1,4 @@
-myAssembler: MIPS Assembly Code Generator
+% myAssembler: MIPS Assembly Code Generator
 
 code author: Prashant Kumar
  
